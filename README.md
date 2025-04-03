@@ -14,3 +14,6 @@ I'm Ranjitha R, a passionate Data Analyst & Cybersecurity Enthusiast with a keen
 ✅ Social Engineering Simulation – Created phishing demonstrations to highlight cybersecurity risks.
 
 🌱 Learning: Advanced Power BI, Python for Data Science, and Cybersecurity tools.
+🔗 Let's Connect!
+💼 LinkedIn: linkedin.com/in/ranjitha-r-024b0b307/
+📧 Email: ranjitharavi6816269@gmail.com
